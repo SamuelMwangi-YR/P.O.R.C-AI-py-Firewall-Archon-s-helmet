@@ -11,8 +11,7 @@
 1) Type the following terminal command: 
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iptables -I INPUT -d 192.168.0.0/24 -j NFQUEUE --queue-num 1
 2) Fill out the rules in the JSON file as follows:
-![](screenshots/config.png)
-<br><img src = "/screenshots/config.PNG" width="50%"></img><br>
+![](config.png)
 3) Execute firewall.py using python3
 
 ### Requirements
