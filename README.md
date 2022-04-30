@@ -27,7 +27,7 @@
 
 1) Email: mwangi.njoroge.samuel@gmail.com
 2) LinkedIn: https://www.linkedin.com/in/samuel-mwangi-ba16aa20b/
-3) P.O.R.C AI: https://www.codechef.com/users/naklechahttps://samuelmwangi-yr.github.io/E-commerce-P.O.R.C-A.I/index.html
+3) P.O.R.C AI: https://samuelmwangi-yr.github.io/E-commerce-P.O.R.C-A.I/index.html
 4) GitHub:  https://github.com/SamuelMwangi-YR
 
 ##### *"Any suggestions would be appreciated"*
